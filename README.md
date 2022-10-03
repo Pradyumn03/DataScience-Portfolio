@@ -12,5 +12,5 @@
 
 | No. |    Hands-on Experience |            Title                 |        Project       | Technical skills       |  Completed   |
 |---- |   -------------------- |   ------------------------------ |     -------------   |--------------- |  ---------   |
-|1    |   Webscraping  | SpaceX Capstone Project    | [IBM Data Science SpaceX Capstone](https://github.com/Pradyumn03/IBM-Data-Science-SpaceX-Capstone)           | Python, BeautifulSoup, Requests, Plotly, Dash, Folium |       &#9745; |
+|1    |   Webscraping, API, Dashboarding, Predictive Modelling, Model Evaluation, Confusion Matrix, Choropleth Maps  | SpaceX Capstone Project    | [IBM Data Science SpaceX Capstone](https://github.com/Pradyumn03/IBM-Data-Science-SpaceX-Capstone)           | Python, BeautifulSoup, Requests, Plotly, Dash, Folium |       &#9745; |
 |2    |   Real Data and Webscraping  | Web Scraping Shopify Ecommerce Website with BeautifulSoup and Requests    | [Web Scraping with BeautifulSoup and Requests]()           | Python, BeautifulSoup, Requests |       &#9744; |
