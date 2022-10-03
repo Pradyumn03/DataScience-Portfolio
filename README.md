@@ -9,3 +9,6 @@
 - **Languages**: Python, SQL, Microsoft SQL Server, Tableau, Excel, R.
 - **Machine Learning**: Regression, Classification, Clustering, Logistic Regression, Decision Trees, SVM, KNN, Time Series Analysis,Deep Learning.
 - **Tools**: NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, Plotly.
+
+| No. |    Hands-on Experience |            Title                 |        Project       | Technical skills       |  Completed   |
+|---- |   -------------------- |   ------------------------------ |     -------------   |--------------- |  ---------   |
