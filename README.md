@@ -8,8 +8,9 @@
 # Technology stack
 - **Languages**: Python, SQL, Microsoft SQL Server, Tableau, Excel, R.
 - **Machine Learning**: Regression, Classification, Clustering, Logistic Regression, Decision Trees, SVM, KNN, Time Series Analysis,Deep Learning.
-- **Tools**: NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, Plotly.
+- **Tools and Libraries**: NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Folium.
 
 | No. |    Hands-on Experience |            Title                 |        Project       | Technical skills       |  Completed   |
 |---- |   -------------------- |   ------------------------------ |     -------------   |--------------- |  ---------   |
-|7    |   Real Data and Webscraping  | Web Scraping Shopify Ecommerce Website with BeautifulSoup and Requests    | [Web Scraping with BeautifulSoup and Requests](https://github.com/chuksoo/bs4-web-scraper/blob/main/PyScrape.ipynb)           | Python, BeautifulSoup, Requests |       &#9744; |
+|1    |   Webscraping  | SpaceX Capstone Project    | [IBM Data Science SpaceX Capstone](https://github.com/Pradyumn03/IBM-Data-Science-SpaceX-Capstone)           | Python, BeautifulSoup, Requests, Plotly, Dash, Folium |       &#9745; |
+|2    |   Real Data and Webscraping  | Web Scraping Shopify Ecommerce Website with BeautifulSoup and Requests    | [Web Scraping with BeautifulSoup and Requests]()           | Python, BeautifulSoup, Requests |       &#9744; |
