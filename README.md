@@ -12,4 +12,4 @@
 
 | No. |    Hands-on Experience |            Title                 |        Project       | Technical skills       |  Completed   |
 |---- |   -------------------- |   ------------------------------ |     -------------   |--------------- |  ---------   |
-|7    |   Real Data and Webscraping  | Web Scraping Shopify Ecommerce Website with BeautifulSoup and Requests    | [Web Scraping with BeautifulSoup and Requests](https://github.com/chuksoo/bs4-web-scraper/blob/main/PyScrape.ipynb)           | Python, BeautifulSoup, Requests |       &#9745; |
+|7    |   Real Data and Webscraping  | Web Scraping Shopify Ecommerce Website with BeautifulSoup and Requests    | [Web Scraping with BeautifulSoup and Requests](https://github.com/chuksoo/bs4-web-scraper/blob/main/PyScrape.ipynb)           | Python, BeautifulSoup, Requests |       &#9744; |
